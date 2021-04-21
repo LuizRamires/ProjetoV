@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Codes\\LoCar\\LoCar\\LoCar.csproj": {}
+    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Codes\\LoCar\\LoCar\\LoCar.csproj": {
+    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Codes\\LoCar\\LoCar\\LoCar.csproj",
+        "projectUniqueName": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
         "projectName": "LoCar",
-        "projectPath": "D:\\Documentos\\Codes\\LoCar\\LoCar\\LoCar.csproj",
-        "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Codes\\LoCar\\LoCar\\obj\\",
+        "projectPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
