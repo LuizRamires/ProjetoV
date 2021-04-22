@@ -1,5 +1,6 @@
 {
-  "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\LoCar.csproj",
+
+  "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,43 +14403,39 @@
   "RootNamespace": "LoCar",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Perfil\\Perfil.cshtml",
-      "TargetPath": "Pages\\Perfil\\Perfil.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Error.cshtml",
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Login\\Index.cshtml",
+      "TargetPath": "Pages\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      
       "FileKind": "mvc"
     }
   ],
