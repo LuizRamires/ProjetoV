@@ -9,3 +9,13 @@
     border: 1px solid #000000;
     border-radius: 10px;
 }
+
+.listaCarro {
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+
+.sedan {
+    padding: 0rem 1rem 1rem 1rem;
+}
