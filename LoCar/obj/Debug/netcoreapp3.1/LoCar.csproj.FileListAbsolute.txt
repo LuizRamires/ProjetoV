@@ -72,3 +72,40 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.dll
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.pdb
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.genruntimeconfig.cache
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CopyComplete
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.exe
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.deps.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.runtimeconfig.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.runtimeconfig.dev.json
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.dll
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.pdb
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.Views.dll
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.Views.pdb
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csprojAssemblyReference.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.AssemblyInfoInputs.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.AssemblyInfo.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CoreCompileInputs.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorAssemblyInfo.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorAssemblyInfo.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.TagHelpers.input.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.TagHelpers.output.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorCoreGenerate.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Index.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorTargetAssemblyInfo.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorTargetAssemblyInfo.cs
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.Views.pdb
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\staticwebassets\LoCar.StaticWebAssets.Manifest.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\staticwebassets\LoCar.StaticWebAssets.xml
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.dll
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.pdb
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.genruntimeconfig.cache
+C:\Users\milyk\OneDrive\Documentos\Faculdade\PROJETO INTEGRADOR 5° SEMESTRE\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CopyComplete

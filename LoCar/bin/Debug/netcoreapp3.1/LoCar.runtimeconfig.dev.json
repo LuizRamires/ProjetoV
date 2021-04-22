@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Pichau\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Pichau\\.nuget\\packages"
+      "C:\\Users\\milyk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\milyk\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

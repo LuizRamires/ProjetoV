@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5KTMDq0jJbHKNM3rlAifnWd+kdQW3188hSW+MVFn9XbXPULQcInwPzgLlLLx3wAYtxSzeTl4Fr4N+N/UNAlKw==",
+  "dgSpecHash": "v87ZB+g9FLIPjBCSfLkbBFWk4RncK0cX6ZVKKUua4oTycQE2enNYJt15JIOKBK6JHWlH8xJzvYdG+t2G2tFSeQ==",
   "success": true,
-  "projectFilePath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

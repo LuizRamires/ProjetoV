@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
+  "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "LoCar",
   "Documents": [
     {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Login\\Index.cshtml",
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\Login\\Index.cshtml",
       "TargetPath": "Pages\\Login\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

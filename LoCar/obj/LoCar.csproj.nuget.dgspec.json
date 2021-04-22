@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {}
+    "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj": {}
   },
   "projects": {
-    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {
+    "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
+        "projectUniqueName": "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj",
         "projectName": "LoCar",
-        "projectPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\obj\\",
+        "projectPath": "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\LoCar.csproj",
+        "packagesPath": "C:\\Users\\milyk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milyk\\OneDrive\\Documentos\\Faculdade\\PROJETO INTEGRADOR 5° SEMESTRE\\ProjetoV\\LoCar\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\milyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -49,16 +51,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
