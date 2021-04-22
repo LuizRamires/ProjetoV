@@ -59,7 +59,6 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.TagHelpers.inp
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.TagHelpers.output.cache
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.RazorCoreGenerate.cache
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -72,3 +71,5 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.dll
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.pdb
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.genruntimeconfig.cache
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CopyComplete
+C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Login.cshtml.g.cs
