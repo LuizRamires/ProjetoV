@@ -1,4 +1,5 @@
 {
+
   "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
@@ -14434,6 +14435,7 @@
     {
       "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      
       "FileKind": "mvc"
     }
   ],
