@@ -7,7 +7,7 @@ using LoCar.Models;
 
 namespace LoCar.Data
 {
-    public class LoCarContext
+    public class LoCarContext : DbContext
     {
         public LoCarContext(DbContextOptions<LoCarContext> options) : base(options)
         {
@@ -17,7 +17,5 @@ namespace LoCar.Data
         public DbSet<Cliente> Cliente { get; set; }
 
         public DbSet<Empresa> Empresa { get; set; }
-
-
     }
 }

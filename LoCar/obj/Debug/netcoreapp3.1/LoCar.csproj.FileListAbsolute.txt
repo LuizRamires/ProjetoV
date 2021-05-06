@@ -117,3 +117,11 @@ D:\Documentos\Codes\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.dll
 D:\Documentos\Codes\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.pdb
 D:\Documentos\Codes\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.genruntimeconfig.cache
 D:\Documentos\Codes\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CopyComplete
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
