@@ -8,6 +8,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using LoCar.Data;
+using System.Linq;
+
 
 namespace LoCar
 {
@@ -23,6 +27,9 @@ namespace LoCar
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddDbContext<LoCarContext>(options => options.UseMySql(Configuration.GetConnectionString("MyDB")));
+
             services.AddRazorPages();
         }
 

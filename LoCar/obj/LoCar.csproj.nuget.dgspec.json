@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {}
+    "D:\\Documentos\\Codes\\ProjetoV\\LoCar\\LoCar.csproj": {}
   },
   "projects": {
-    "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj": {
+    "D:\\Documentos\\Codes\\ProjetoV\\LoCar\\LoCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
+        "projectUniqueName": "D:\\Documentos\\Codes\\ProjetoV\\LoCar\\LoCar.csproj",
         "projectName": "LoCar",
-        "projectPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\obj\\",
+        "projectPath": "D:\\Documentos\\Codes\\ProjetoV\\LoCar\\LoCar.csproj",
+        "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\Codes\\ProjetoV\\LoCar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,32 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,16 +75,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
