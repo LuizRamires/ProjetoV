@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "H5KTMDq0jJbHKNM3rlAifnWd+kdQW3188hSW+MVFn9XbXPULQcInwPzgLlLLx3wAYtxSzeTl4Fr4N+N/UNAlKw==",
+  "dgSpecHash": "WkLgG93tnyIVA9MW62tQTDTeJwF5TeP/7BVOVi7G9ITh1lb+owIdMGmD27fISXmJuItNPV/bkBfFVzoYE5UqfQ==",
   "success": true,
-  "projectFilePath": "C:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
+  "projectFilePath": "C:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\LoCar.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\luca-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }
