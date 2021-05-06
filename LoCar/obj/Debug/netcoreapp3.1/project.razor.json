@@ -1,5 +1,4 @@
 {
-
   "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\LoCar.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
@@ -14403,6 +14402,11 @@
   "RootNamespace": "LoCar",
   "Documents": [
     {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\CadastroUsuario\\CadastroUsuario2.cshtml",
+      "TargetPath": "Pages\\CadastroUsuario\\CadastroUsuario2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -14418,8 +14422,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Perfil\\Perfil.cshtml",
+      "TargetPath": "Pages\\Perfil\\Perfil.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Catalogo\\catalogo.cshtml",
+      "TargetPath": "Pages\\Catalogo\\catalogo.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14428,14 +14442,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Login\\Index.cshtml",
-      "TargetPath": "Pages\\Login\\Index.cshtml",
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Login\\Login.cshtml",
+      "TargetPath": "Pages\\Login\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ProjetoIntegrador\\ProjetoV\\LoCar\\Pages\\CadastroUsuario\\CadastroUsuario.cshtml",
+      "TargetPath": "Pages\\CadastroUsuario\\CadastroUsuario.cshtml",
       "FileKind": "mvc"
     }
   ],

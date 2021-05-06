@@ -76,6 +76,7 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Lo
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogo\catalogo.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Perfil\Perfil.cshtml.g.cs
+<<<<<<< HEAD
 D:\Documentos\Codes\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Documentos\Codes\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Documentos\Codes\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.exe
@@ -125,3 +126,6 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\ProjetoIntegrador\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+=======
+C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario2.cshtml.g.cs
+>>>>>>> 658575218bcfdde1318a7243e5d8b9f26c21b1aa
