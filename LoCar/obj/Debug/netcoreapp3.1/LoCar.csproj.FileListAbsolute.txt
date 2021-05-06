@@ -76,3 +76,4 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Lo
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogo\catalogo.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Perfil\Perfil.cshtml.g.cs
+C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario2.cshtml.g.cs
