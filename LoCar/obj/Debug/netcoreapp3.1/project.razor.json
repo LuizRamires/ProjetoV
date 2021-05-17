@@ -14447,6 +14447,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\CadastroUsuario\\CadastroUsuario2.cshtml",
+      "TargetPath": "Pages\\CadastroUsuario\\CadastroUsuario2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\luca-\\Desktop\\Faculdade\\3°Semeste\\Proj.integ\\ProjetoV\\LoCar\\Pages\\Login\\Login.cshtml",
       "TargetPath": "Pages\\Login\\Login.cshtml",
       "FileKind": "mvc"

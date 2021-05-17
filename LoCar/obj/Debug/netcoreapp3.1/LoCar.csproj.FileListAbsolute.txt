@@ -76,6 +76,7 @@ C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Lo
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Catalogo\catalogo.cshtml.g.cs
 C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\Perfil\Perfil.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\bin\Debug\netcoreapp3.1\LoCar.exe
@@ -117,3 +118,7 @@ C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\obj\Debug\
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.pdb
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.genruntimeconfig.cache
 C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\LoCar.csproj.CopyComplete
+=======
+C:\ProjetoIntegrador\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario2.cshtml.g.cs
+>>>>>>> 658575218bcfdde1318a7243e5d8b9f26c21b1aa
+C:\Users\luca-\Desktop\Faculdade\3°Semeste\Proj.integ\ProjetoV\LoCar\obj\Debug\netcoreapp3.1\Razor\Pages\CadastroUsuario\CadastroUsuario2.cshtml.g.cs

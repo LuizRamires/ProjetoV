@@ -1,13 +1,15 @@
 .carro li {
-    display: inline-block;
+    /* display: inline-block; */
     text-align: center;
-    width: 90%;
+    width: 100%;
     vertical-align: top;
     margin: 0 1.5%;
     padding: 15px 10px;
     box-sizing: border-box;
     border: 1px solid #000000;
     border-radius: 10px;
+    padding-bottom: 10px;
+    list-style: none;
 }
 
 .carro .listaCarro {
@@ -25,7 +27,7 @@ carro .sedan {
     display: flex;
 } */
 
-.carro {
-    display: inline-block;
-}
+ .carro {
+    padding: 10px;
+} 
 
